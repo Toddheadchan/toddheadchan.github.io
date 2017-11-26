@@ -62,3 +62,6 @@ ZA = ZB x ZC
 <li>
 When a user order a tea as the step 3 above, A1 is in state 1 and A2 is in state D. During the time the drink is preparing, if the user send an action _cancel_, then A1 will be in the state of 0, and will give out the coin. But when the drink is ready, A2 will transform to state A and the drink will be give out. Therefore, the user can get a drink without paying money.
 </li>
+
+<li></li>
+<img src="T7.png">
