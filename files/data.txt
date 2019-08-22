@@ -1,26 +1,27 @@
 {
 	"commonRulesets": [{
-		"ruleName": "EVO 2019",
-		"icon": "evo.png",
-		"stages": "020200000000000000010000000000000000010020002000000000000000000000000000000000010000020000000000000000000",
-		"starter": "YES",
-		"banCount": 2,
-		"starterBanCount": 4
-	},
-	{
-		"ruleName": "CEO 2019",
-		"icon": "ceo.png",
-		"stages": "020200000000000000010000000000000000010120002000000000000000000000000000000000010000020000000000000000000",
-		"starter": "YES",
-		"banCount": 2,
-		"starterBanCount": 4
-	}],
-	"customRulesets": [
+			"ruleName": "EVO 2019",
+			"icon": "evo.png",
+			"stages": "020200000000000000010000000000000000010020002000000000000000000000000000000000010000020000000000000000000",
+			"starter": "YES",
+			"banCount": 2,
+			"starterBanCount": 4
+		},
+		{
+			"ruleName": "CEO 2019",
+			"icon": "ceo.png",
+			"stages": "020200000000000000010000000000000000010120002000000000000000000000000000000000010000020000000000000000000",
+			"starter": "YES",
+			"banCount": 2,
+			"starterBanCount": 4
+		}
+	],
+	"customRulesets": [{
 		"ruleName": "Guangzhou Tournament",
 		"icon": "",
 		"stages": "020200000000000000010000000000000000010120002000000000000000002000000000000000010000010000000000000000000",
 		"starter": "YES",
 		"banCount": 2,
 		"starterBanCount": 2
-	]
+	}]
 }
